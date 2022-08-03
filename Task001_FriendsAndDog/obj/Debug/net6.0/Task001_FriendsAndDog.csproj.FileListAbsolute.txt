@@ -1,0 +1,15 @@
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.csproj.AssemblyReference.cache
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.AssemblyInfoInputs.cache
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.AssemblyInfo.cs
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.csproj.CoreCompileInputs.cache
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\bin\Debug\net6.0\Task001_FriendsAndDog.exe
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\bin\Debug\net6.0\Task001_FriendsAndDog.deps.json
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\bin\Debug\net6.0\Task001_FriendsAndDog.runtimeconfig.json
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\bin\Debug\net6.0\Task001_FriendsAndDog.dll
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\bin\Debug\net6.0\ref\Task001_FriendsAndDog.dll
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\bin\Debug\net6.0\Task001_FriendsAndDog.pdb
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.dll
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\ref\Task001_FriendsAndDog.dll
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.pdb
+C:\Users\vator\OneDrive\Рабочий стол\Examples\Task001_FriendsAndDog\obj\Debug\net6.0\Task001_FriendsAndDog.genruntimeconfig.cache
